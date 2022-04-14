@@ -1,3 +1,7 @@
+forked from https://github.com/Cowboy-Spike-Spiegel/BUPT_SCS_Resources
+
+
+
 已经上传：
 
 **线性代数**
